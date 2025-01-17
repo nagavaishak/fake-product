@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/ch.qos.logback.classic-0.9.28.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-fileupload-1.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/libjitsi-1.1-23-g86401561.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/logback-core-0.9.28.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
